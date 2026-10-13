@@ -1,0 +1,6 @@
+{
+  "name": "Nonna Mia - Totem de Autoatendimento & Pedidos",
+  "description": "Totem de autoatendimento para culinária italiana com pedidos sem atendente, checkout com pagamento instantâneo, emissão de comanda/senha e integração Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
